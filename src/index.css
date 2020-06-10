@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.heading {
+  font-size: 65px !important;
+  text-decoration: underline;
+  font-style: italic;
+}
